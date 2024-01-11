@@ -1,4 +1,4 @@
-# NestJS. Logging with Winston with JSON format
+# NestJS. Logging with Winston in JSON format
 ## With new project
 #### 1. Create new project
 ```shell
